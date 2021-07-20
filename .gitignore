@@ -1,0 +1,18 @@
+# Logs
+
+firebase-debug.log*
+firebase-debug.*.log*
+
+# Firebase 
+.firebase/
+
+.firebaserc
+
+.cache/
+.firebaserc
+firebase.json
+
+# Dependency directories
+node_modules/
+.cache/
+dist/
